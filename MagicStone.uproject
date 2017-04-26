@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0C7C0E38-4AFB-547D-DA59-7FB90BF8A4D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MagicStone",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
